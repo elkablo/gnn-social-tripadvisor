@@ -47,3 +47,7 @@ gunzip authors.json.gz
 gunzip hotels.json.gz
 gunzip reviews.json.gz
 ```
+
+### A map of scraped hotels, colored by detected Louvain clusters in bipartite projection
+
+![A map of scraped hotels, colored by detected Louvain clusters in bipartite projection](zmap.png)
