@@ -1,7 +1,9 @@
 # Tripadvisor analysis and prediction using Graph Neural Networks
 
-Source codes and scraped data used in my diploma thesis,
-[Graph neural networks and their application to social network analysis](https://github.com/elkablo/gnn-social-tripadvisor/releases/download/v1.0/thesis.pdf).
+Source code and scraped data used in the study
+[*I.&nbsp;Mrázová and M.&nbsp;Behún: Graph Neural Networks for Hotel Recommendation and Quality Assessment*](https://itat.ics.upjs.sk/index.php?id=program)
+and in the diploma thesis
+[*M.&nbsp;Behún: Graph neural networks and their application to social network analysis*](https://github.com/elkablo/gnn-social-tripadvisor/releases/download/v1.0/thesis.pdf).
 
 ## Dependency installation instructions
 
