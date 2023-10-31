@@ -1,6 +1,6 @@
 # Tripadvisor analysis and prediction using Graph Neural Networks
 
-Source code and scraped data used in the study
+This repository contains source code and scraped data used in the study
 [*I.&nbsp;Mrázová and M.&nbsp;Behún: Graph Neural Networks for Hotel Recommendation and Quality Assessment, in: B.&nbsp;Brejová&nbsp;et&nbsp;al.: Proceedings of the 23rd Conference Information Technologies - Applications and Theory (ITAT 2023), Tatranské Matliare, Slovakia, September 22-26, CEUR Workshop Proceedings Vol-3498, 2023, pp.&nbsp;67-75.*](https://ceur-ws.org/Vol-3498/paper8.pdf)
 and in the diploma thesis
 [*M.&nbsp;Behún: Graph neural networks and their application to social network analysis*](https://github.com/elkablo/gnn-social-tripadvisor/releases/download/v1.0/thesis.pdf).
